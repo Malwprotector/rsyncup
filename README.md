@@ -1,6 +1,5 @@
 # RSyncup
 ![SEPAQRcode logo](https://main.st4lwolf.org/media/rsyncup.png)
-
 RSyncup is a Linux Bash script designed to help users back up important folders to different storage locations using the `rsync` utility. The script provides a simple interface to select source and destination paths for backup while ensuring that the data is synchronized correctly.
 
 ## Table of Contents
@@ -93,7 +92,3 @@ The script uses ANSI escape codes to format the output with colors:
 ## Disclaimer
 
 This script is provided "as is," without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. The author shall not be liable for any damages arising from the use of this script, including but not limited to direct, indirect, incidental, punitive, and consequential damages. Users are responsible for ensuring that they have appropriate backups and that they fully understand the implications of using this script.
-
-## License
-
-This project is licensed under the  [CC-BY-NC-SA 4.0 License.](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
